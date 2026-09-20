@@ -1,7 +1,7 @@
 name = input ("Enter your name: ")
 department = input("Enter your department: ")
 age = input("Enter your age: ")
-career_goal = input(" Enter your career goal: ") 
+career_goal = input("Enter your career goal: ") 
 
 print("\n--- Student Profile ---")
 print (f"Name: {name}")
