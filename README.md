@@ -1,8 +1,4 @@
 # mis203-basic-programming
-//Ayşenur Alkan
-//2404109054
-//Management Information Systems
-//MIS 203 Basic Programming
 - **Name:** Ayşenur Alkan
 - **Student Number:** 2404109054
 - **Department:** Management Information Systems
